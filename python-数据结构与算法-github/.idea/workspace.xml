@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c806724-0e23-4158-8830-2520c42b2dfd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/00_课程简介之笨方法学算法/why_and_how_to_learn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/01_抽象数据类型和面向对象编程/ADT_OOP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/01_抽象数据类型和面向对象编程/bag_adt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/02_数组和列表/array_and_list.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/02_数组和列表/array_and_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/02_数组和列表/list.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/03_链表/double_link_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/03_链表/linked_list.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/03_链表/linked_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/03_链表/lru_cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/04_队列/array_queue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/04_队列/array_queue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/04_队列/deque.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/04_队列/queue.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/04_队列/queue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/05_栈/stack.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/05_栈/stack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/06_算法分析/big_o.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/06_算法分析/function_growth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/07_哈希表/hashtable.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/07_哈希表/hashtable.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/07_哈希表/insert_hash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/07_哈希表/insert_hash_chaining.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/07_哈希表/quadratic_hash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/07_哈希表/quadratic_result.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/08_字典/dict.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/08_字典/dict_adt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/09_集合/set.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/09_集合/set.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/09_集合/set_adt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/10_递归/fact.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/10_递归/hanoi.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/10_递归/hanoi_four_disks.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/10_递归/hanoi_tower.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/10_递归/print_rec.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/10_递归/recursion.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/10_递归/recursion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/11_线性查找与二分查找/search.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/11_线性查找与二分查找/search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/12_基本排序算法/basic_sort.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/12_基本排序算法/basic_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/13_高级排序算法/advanced_sorting.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/13_高级排序算法/merge_sort.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/13_高级排序算法/merge_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/13_高级排序算法/merge_sort_merge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/13_高级排序算法/merge_sort_recursion_tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/13_高级排序算法/merge_sort_split.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/13_高级排序算法/merge_sorted_array.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/13_高级排序算法/merge_sorted_array_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/13_高级排序算法/partition.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/13_高级排序算法/quick_sort.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/13_高级排序算法/quick_sort.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/13_高级排序算法/quicksort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/13_高级排序算法/quicksort_worst.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/13_高级排序算法/test.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/13_高级排序算法/tn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/14_树与二叉树/binary_tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/14_树与二叉树/binary_tree_level.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/14_树与二叉树/btree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/14_树与二叉树/complete_binary_tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/14_树与二叉树/family_tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/14_树与二叉树/full_binary_tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/14_树与二叉树/perfect_binary_tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/14_树与二叉树/preorder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/14_树与二叉树/tree.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/14_树与二叉树/tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/15_堆与堆排序/heap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/15_堆与堆排序/heap_and_heapsort.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/15_堆与堆排序/heap_and_heapsort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/15_堆与堆排序/heap_array.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/15_堆与堆排序/lfu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/15_堆与堆排序/siftdown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/15_堆与堆排序/siftup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/15_堆与堆排序/topk.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/163_course.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/16_优先级队列/priority_queue.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/16_优先级队列/priority_queue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/17_二叉查找树/binary_search_tree.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/17_二叉查找树/bst.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/17_二叉查找树/bst.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/17_二叉查找树/bst_insert.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/17_二叉查找树/bst_remove_leaf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/17_二叉查找树/bst_remove_node_with_one_child.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/17_二叉查找树/bst_search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/17_二叉查找树/bst_worstcase.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/17_二叉查找树/find_successor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/17_二叉查找树/predecessor_successor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/17_二叉查找树/remove_interior_replace.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/18_图与图的遍历/bfs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/18_图与图的遍历/graph.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/18_图与图的遍历/graph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/18_图与图的遍历/graph_rep.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/18_图与图的遍历/graph_road.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/19_python内置常用算法和数据结构/builtins.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/20_面试指南/interview.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_structures_and_algorithms/docs/index.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/python_data_structures_and_algorithms" />
+  </component>
+  <component name="ProjectId" id="1kuYpn1TtxtVFmlJ9IQIZ55KTtK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PathPlanning-master" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Python.AStar">
+    <configuration name="AStar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-数据结构与算法-github" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PathPlaning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PathPlaning/AStar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="array_and_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-数据结构与算法-github" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_data_structures_and_algorithms/python-算法/02_数组和列表" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_data_structures_and_algorithms/python-算法/02_数组和列表/array_and_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="double_link_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-数据结构与算法-github" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_data_structures_and_algorithms/python-算法/03_链表" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_data_structures_and_algorithms/python-算法/03_链表/double_link_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="linked_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-数据结构与算法-github" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_data_structures_and_algorithms/python-算法/03_链表" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_data_structures_and_algorithms/python-算法/03_链表/linked_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lru_cache" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-数据结构与算法-github" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_data_structures_and_algorithms/python-算法/03_链表" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_data_structures_and_algorithms/python-算法/03_链表/lru_cache.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.AStar" />
+        <item itemvalue="Python.linked_list" />
+        <item itemvalue="Python.double_link_list" />
+        <item itemvalue="Python.lru_cache" />
+        <item itemvalue="Python.array_and_list" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c806724-0e23-4158-8830-2520c42b2dfd" name="Default Changelist" comment="" />
+      <created>1606552128863</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606552128863</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2722" y="295" key="FileChooserDialogImpl" timestamp="1612514815152">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2722" y="295" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612514815152" />
+    <state width="1702" height="230" key="GridCell.Tab.0.bottom" timestamp="1612514816311">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1515" height="214" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1612408320362" />
+    <state width="1702" height="230" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612514816311" />
+    <state width="1702" height="230" key="GridCell.Tab.0.center" timestamp="1612514816311">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1515" height="214" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1612408320362" />
+    <state width="1702" height="230" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612514816311" />
+    <state width="1702" height="230" key="GridCell.Tab.0.left" timestamp="1612514816311">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1515" height="214" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1612408320362" />
+    <state width="1702" height="230" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612514816311" />
+    <state width="1702" height="230" key="GridCell.Tab.0.right" timestamp="1612514816311">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1515" height="214" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1612408320362" />
+    <state width="1702" height="230" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612514816311" />
+    <state width="1899" height="199" key="GridCell.Tab.1.bottom" timestamp="1606719447042">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="199" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606719447042" />
+    <state width="1899" height="199" key="GridCell.Tab.1.center" timestamp="1606719447041">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="199" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606719447041" />
+    <state width="1899" height="199" key="GridCell.Tab.1.left" timestamp="1606719447041">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="199" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606719447041" />
+    <state width="1899" height="199" key="GridCell.Tab.1.right" timestamp="1606719447042">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="199" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606719447042" />
+    <state x="291" y="52" key="SettingsEditor" timestamp="1610524234415">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="2381" y="162" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606552253005" />
+    <state x="291" y="52" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1610524234415" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_data_structures_and_algorithms/python-算法/13_高级排序算法/merge_sort.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_data_structures_and_algorithms/python-算法/13_高级排序算法/merge_sort.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_data_structures_and_algorithms/python-算法/03_链表/lru_cache.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
